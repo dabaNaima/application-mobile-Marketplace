@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="category_array">
+        <item>clothing</item>
+        <item>Fashion and accessories</item>
+        <item>Cars</item>
+        <item>Houses</item>
+        <item>Health and beauty</item>
+        <item>Sport and outdoors</item>
+        <item>Phones</item>
+        <item>Furniture</item>
+
+
+    </string-array>
+</resources>
